@@ -155,8 +155,7 @@ p {
 .cp{
   padding: 10px 0;
   color: #000000;
-  font-weight: bolder;
-}
+  }
 
 
 @media(max-width:1028px){
